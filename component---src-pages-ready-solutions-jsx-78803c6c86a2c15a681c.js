@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksecond=self.webpackChunksecond||[]).push([[681],{2592:function(e,n,t){t.r(n),t.d(n,{Head:function(){return l}});var u=t(7294),l=function(){return u.createElement("title",null,"Solutions")};n.default=function(){return u.createElement("div",null,u.createElement("h1",null,"Ready Solutions"))}}}]);
+//# sourceMappingURL=component---src-pages-ready-solutions-jsx-78803c6c86a2c15a681c.js.map

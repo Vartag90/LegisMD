@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksecond=self.webpackChunksecond||[]).push([[280],{2457:function(e,n,t){t.r(n),t.d(n,{Head:function(){return r}});var u=t(7294),r=function(){return u.createElement("title",null,"Business")};n.default=function(){return u.createElement("div",null,u.createElement("h1",null,"Services For Business"))}}}]);
+//# sourceMappingURL=component---src-pages-services-for-business-jsx-7d1a557d000550e1bb8b.js.map
